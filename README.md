@@ -6,7 +6,10 @@ Terraforming Mars is a board game played between 1-5 players. The game takes any
 
 ## What I Like About Terraforming Mars 
 - Makes you think critically
-- Can use different strategies for every game
-- Every game is different even if you play with the same coorporation
+  Complex systems force you to make hard decisions.
+- Variety of strategies to use
+  Use strategies like focusing on trade, or production instead.
+- Replayability
+  Every game is different even if you play with the same coorporation.
 
 ![TM Board game](TMboardgame.png)
